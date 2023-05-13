@@ -1,0 +1,1 @@
+# just need to install tailwind css for this navbar -It's fully responsive navbar for react.
