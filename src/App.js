@@ -3,10 +3,10 @@
 
 function App() {
    return (
-      <div className="">
+      <div>
          {/* up to down */}
          {/* <Navbar1 /> */}
-         
+
          {/* right side to left */}
          {/* <Navbar2 /> */}
       </div>
